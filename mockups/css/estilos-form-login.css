@@ -1,0 +1,21 @@
+/* .contenedor-formulario {
+    position: relative;
+}
+
+.contenedor-formulario form {
+    position: absolute;
+    top: 100%;
+} */
+
+.img-navbar {
+    border-radius: 100%;
+}
+
+.img-factura {
+    width: 100px;
+    border-radius: 100%;
+}
+
+.lista-footer li a {
+    text-decoration: none;
+}
